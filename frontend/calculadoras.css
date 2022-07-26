@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+p{
+    text-decoration:overline;
+    border: 30%;
+    background-color: dimgray;
+    border-color: #ff0000;
+}
+p:hover{
+    margin-bottom: auto;
+}
